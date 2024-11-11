@@ -25,9 +25,8 @@ I'm a passionate **Front-End Developer** and aspiring **Full-Stack Developer** w
 - **Other Tools**: Git, GitHub, API Integration, Flexbox
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Your LinkedIn URL]
-- **Portfolio**: [Link to your personal portfolio website, if you have one]
-- **Email**: [Your email address]
+- **LinkedIn**: [https://www.linkedin.com/in/jose-luis-izquierdo-hernandez-938064245/]
+- **Email**: [joseluisizquierdoshernandez@gmail.com]
 
 ---
 
