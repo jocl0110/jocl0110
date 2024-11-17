@@ -12,7 +12,6 @@ I'm a passionate **Front-End Developer** and aspiring **Full-Stack Developer** w
 ## 🌱 Ongoing Goals
 - **Bachelor's Degree**: I am working towards obtaining a degree in **Computer Science** to enhance my technical foundation.
 - **Self-Driven Projects**: Engaging in personal projects to build, test, and document my skills in **Web Development**.
-- **New Career Path**: Considering a pathway in the healthcare field, possibly as an **Anesthesiologist Assistant**.
 
 ## 💼 Relevant Experience
 - **Freelance Web Developer**: Six months of hands-on experience with freelancing projects, allowing me to apply my learning in real-world applications.
